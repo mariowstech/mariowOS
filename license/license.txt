@@ -1,0 +1,34 @@
+== mariowOS ==
+
+This software is under the Apache Open source license 2.0.
+
+- RMA
+      This version of mariowOS should not void any warranty from device manufacturers. Check if your seller/reseller has something against custom OSes.
+
+- mariowOS network
+      To use all the features of mariowOS the system may need to connect to the servers.
+
+- Package modification
+      If you installed a unofficial package the system may not work as expected, and the developer of that
+      package is the one serving updates for the system updates along with our base updates.
+
+- Developing another mariowOS system image
+      You can develop mariowOS system images to be used instead of the original one. We can provide the base
+      system code for you to develop on and keep updating the image. Updates and licenses are managed and
+      provided by you.
+
+** THIS SYSTEM CONTAINS OPEN AND NOT OPEN SOURCE ELEMENTS **
+
+- VMware Tools
+https://docs.vmware.com/en/VMware-Tools/index.html
+
+- MACH2
+https://github.com/riverar/mach2
+
+- HTA Application runtime (mshta)
+https://en.wikipedia.org/wiki/HTML_Application
+
+- WIM (Windows Imagining Format)
+https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/capture-and-apply-windows-using-a-single-wim?view=windows-11
+
+If you don’t accept those terms stop using this OS and switch back to Windows or other.
