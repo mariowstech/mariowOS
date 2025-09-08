@@ -1,4 +1,4 @@
-![alt text](https://github.com/mariowstech/mariowOS-landpages/blob/main/repomain.png "bla")
+![alt text](https://github.com/mariowstech/mariowOS/images/mariowOS-icon.png "bla")
 
 mariowOS provides a clean, smooth, web based OS experience.
 
